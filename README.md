@@ -13,7 +13,7 @@
 ```
 ClaudeUtil/
 ├── CLAUDE.md                      Claude Code 全局规则文件（可直接复制到 ~/.claude/CLAUDE.md）
-├── SmartAdmin-Java规范-V3.0.md     完整参考文档（含正反例、详细解释）
+├── Java后端开发规范-完整版.md       完整参考文档（含正反例、详细解释）
 └── README.md
 ```
 
@@ -33,9 +33,9 @@ ClaudeUtil/
 | **JavaBean 规范** | Entity / Form / VO / DTO / BO 命名与约束 |
 | **数据库规范** | 表命名、必备字段、枚举注释要求 |
 
-### SmartAdmin-Java规范-V3.0.md —— 完整参考文档
+### Java后端开发规范-完整版.md —— 完整参考文档
 
-这是 [SmartAdmin](https://smartadmin.vip) Java 后端开发规范的完整版本，包含：
+这是 Java 后端开发规范的完整版本（参考 [SmartAdmin](https://smartadmin.vip) 规范体系整理），包含：
 - 每条规则的详细解释和背景说明
 - 正例与反例的代码对比
 - Manager 层的设计思路和解决的问题

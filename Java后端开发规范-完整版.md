@@ -1,6 +1,6 @@
-# SmartAdmin Java 规范 V3.0
+# Java 后端开发规范（完整版）
 
-> 来源：https://smartadmin.vip/views/doc/standard/back.html
+> 参考来源：[SmartAdmin 官方文档](https://smartadmin.vip/views/doc/standard/back.html)
 
 ---
 
